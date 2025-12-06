@@ -1,4 +1,4 @@
-﻿# BlogGrid Pro
+﻿# Frieze
 
 A modern, animated blog section component built with pure HTML, CSS, and JavaScript. Perfect for displaying blog posts, articles, and news content with smooth view counter animations.
 
@@ -14,7 +14,7 @@ A modern, animated blog section component built with pure HTML, CSS, and JavaScr
 
 ## Live Demo
 
-https://thisislefa.github.io/bloggrid-pro
+https://thisislefa.github.io/Frieze
 
 ## Tech Stack
 
@@ -27,4 +27,5 @@ https://thisislefa.github.io/bloggrid-pro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/thisislefa/bloggrid-pro.git
+   git clone https://github.com/thisislefa/Frieze.git
+
