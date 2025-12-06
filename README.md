@@ -1,6 +1,10 @@
-﻿# Frieze
+﻿# Frieze - Animated Blog Section Component
 
 A modern, animated blog section component built with pure HTML, CSS, and JavaScript. Perfect for displaying blog posts, articles, and news content with smooth view counter animations.
+
+## Live Demo
+
+[View Live Demo](https://thisislefa.github.io/Frieze)
 
 ## Features
 
@@ -11,10 +15,6 @@ A modern, animated blog section component built with pure HTML, CSS, and JavaScr
 - **Performance Optimized**: Efficient Intersection Observer implementation
 - **Accessibility Ready**: Semantic HTML and proper contrast ratios
 - **Easy Customization**: Well-structured CSS variables for quick theming
-
-## Live Demo
-
-https://thisislefa.github.io/Frieze
 
 ## Tech Stack
 
@@ -28,4 +28,5 @@ https://thisislefa.github.io/Frieze
 1. **Clone the repository**
    ```bash
    git clone https://github.com/thisislefa/Frieze.git
+
 
